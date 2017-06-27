@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "helloworld3",
+    "name": "AppTemplate",
     "description": "No description",
-    "slug": "helloworld3",
+    "slug": "app-template",
     "privacy": "public",
     "sdkVersion": "18.0.0",
     "version": "1.0.0",
@@ -22,6 +22,9 @@
     },
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.gpct.helloword"
     }
   }
 }
